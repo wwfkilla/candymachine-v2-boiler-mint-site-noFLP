@@ -66,13 +66,13 @@ const App = () => {
             <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
           </li>
           <li>
-            <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+            <a href="http://discord.gg/bDynhEnYNZ" onClick={toggleMenu}>
+              Our Discord
             </a>
           </li>
           <li>
-            <a href="/#link2" onClick={toggleMenu}>
-              Link 2
+            <a href="https://twitter.com/solanacarclub" onClick={toggleMenu}>
+              Twitter Profile
             </a>
           </li>
     
