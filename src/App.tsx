@@ -63,7 +63,7 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="/img/logo2.png" alt="" />
+            <img className="mobile-nav-logo" src="" alt="" />
           </li>
           <li>
             <a href="http://discord.gg/bDynhEnYNZ" onClick={toggleMenu}>
